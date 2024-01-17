@@ -1,7 +1,7 @@
 ## Enhancing Mini-Program Development with ShareTracking 👋
 
 
-** share-tracking a framework designed to assist users in seamlessly integrating sharing and tracking functionalities into their mini-programs, fostering a quicker and more efficient development experience:**
+**share-tracking a framework designed to assist users in seamlessly integrating sharing and tracking functionalities into their mini-programs, fostering a quicker and more efficient development experience**
 
 <!--
 
